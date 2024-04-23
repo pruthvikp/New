@@ -1,7 +1,3 @@
-Sure, here's a description you could use for your GitHub repository:
-
----
-
 📚 Yelp Reviews Classification with Multinomial Naive Bayes and NLP 🤖
 
 This repository houses a comprehensive Machine Learning project aimed at classifying Yelp reviews using Multinomial Naive Bayes and Natural Language Processing (NLP) techniques. Leveraging the power of scikit-learn and NLTK libraries, this project dives into the realm of sentiment analysis and text classification.
